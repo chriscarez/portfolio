@@ -598,3 +598,15 @@ a.fa.fa-angle-down:hover{
     -o-transition: 500ms;
     transition: 500ms;
 }
+
+.mt-5 {
+    margin-top: 5rem;
+}
+
+.custom-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border: 1px solid black;
+    border-radius: 8px;
+}
